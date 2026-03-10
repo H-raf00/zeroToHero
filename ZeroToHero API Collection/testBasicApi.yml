@@ -5,7 +5,7 @@ info:
 
 http:
   method: POST
-  url: http://localhost:5277/api/user/create
+  url: http://localhost:5050/api/user/create
   body:
     type: json
     data: |-
